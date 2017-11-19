@@ -20,7 +20,7 @@ It has evolved as a learning workbench, for me and possibly other Java developer
 in geting some grip over things like geographic data handling (although there is no use of 
 advanced technology like GeoTools)... Considering that the most time-consuming operations are 
 Network and MMI interactions, considering also the asynchronous (out-of-flight) nature 
-of this application, design and coding where focused mainly on comfortable use, intuitive 
+of this application, design and coding were focused mainly on comfortable use, intuitive 
 interactions, and readable, reusable internal structures, not maximum speed (using systematically 
 .dirindex files and SHA-1 signatures is however delivering quite satisfying results).
 
@@ -47,7 +47,7 @@ how to handle and render ESRI ShapeFiles in Java. Though I eventually did not us
 ambitious and fully engineered) code, it's a pleasure to recognize his seminal impact. Moreover, 
 his blog is a real delight for those loving computer graphics and algorithmic fancies rendering...
 
-Concerning Brian Wellingtonlet's dnsjava, let's mention the following license notice, as requested:
+Concerning Brian Wellington's dnsjava, let's mention the following license notice, as requested:
 	"dnsjava is placed under the BSD license.  Several files are also under
 	additional licenses; see the individual files for details.
 
