@@ -1,11 +1,9 @@
 # FlightGearGardener
 A JavaFX Asynchronous SyncManager for FlightGear Terrasync scenery data
 
-==========================================
-FlightGearGardener - Version 00 - Nov 2017
-==========================================
-AppGeneralReadme.txt
-====================
+===================================
+FlightGearGardener - V00 - Nov 2017
+===================================
 
 1. Purposes
 
