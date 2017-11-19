@@ -1,10 +1,6 @@
 # FlightGearGardener
 A JavaFX Asynchronous SyncManager for FlightGear Terrasync scenery data
 
-===================================
-FlightGearGardener - V00 - Nov 2017
-===================================
-
 1. Purposes
 
 The global purpose behind this Application was to use JavaFX to produce (yet another) asynchronous 
