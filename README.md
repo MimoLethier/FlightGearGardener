@@ -86,3 +86,8 @@ concur to freedom limitation, ecological or human harm, or commercial profits.
 3. Install
 
 See AppGeneralReadme.
+
+
+4. Change log
+
+2017-11-20 : Added sub-path directories creation for AIRPORTs and isolated file download...
