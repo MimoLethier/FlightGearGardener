@@ -1,5 +1,5 @@
 # FlightGearGardener
-A JavaFX Asynchronous SyncManager for FlightGear Terrasync scenery data
+A JavaFX Asynchronous Download Manager for FlightGear Terrasync scenery data
 
 1. Purposes
 
@@ -91,3 +91,5 @@ See AppGeneralReadme.
 4. Change log
 
 2017-11-20 : Added sub-path directories creation for AIRPORTs and isolated file download...
+2017-11-24 : Added support for Browsing Terrasync repositories with/without filter "Up-to-date"
+		(Browse OUTDATED/Browse ALL options); added a few messages to help navigation...
