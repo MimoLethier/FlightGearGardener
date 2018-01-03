@@ -90,6 +90,9 @@ See AppGeneralReadme.
 
 4. Change log
 
+2018-01-03 : Modified the Notifier Popup locking and a few ancillary libraries; changed the default configuration
+		directory on Unix systems to comply with XDG Base Directory specs
+
 2017-11-20 : Added sub-path directories creation for AIRPORTs and isolated file download... 
 
 2017-11-24 : Added support for Browsing Terrasync repositories with/without filter "Up-to-date"
