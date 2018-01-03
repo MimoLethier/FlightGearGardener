@@ -1,6 +1,6 @@
 
 ==========================================
-FlightGearGardener - Version 00 - Nov 2017
+FlightGearGardener - Version 02 - Jan 2018
 ==========================================
 AppGeneralReadme.txt
 ====================
@@ -112,7 +112,7 @@ The whole thing is split in two subsets:
 		The easiest way to run/test it is to download the zip and "extract here" in your UserHome folder:
 		this will create a FG_GardenerV00 folder containing all you need to proceed with "minimal"
 		configuration (see ConfigReadMe for the few mandatory changes still to do before run). Of course 
-		customized install is supported, reading further in the same ConfigReadMe...).
+		customized install is supported, reading further in the same ConfigReadMe....
 		
 	B. Sources, which contains the java source code. Note that to compile those sources, you will
 		need the libraries grouped in the FG_bin\lib folder found in A. above (and support for 
