@@ -90,6 +90,9 @@ See AppGeneralReadme.
 
 4. Change log
 
+2018-01-04 : Updated the sysContext.xml to reflect the FG_Gardener02 envelope (instead of FG_Gardener01 ;-) ).
+		Improved a bit the Synchronization reporting and notifications, and Grid cleanup...
+
 2018-01-03 : Modified the Notifier Popup locking and a few ancillary libraries; changed the default configuration
 		directory on Unix systems to comply with XDG Base Directory specs
 
