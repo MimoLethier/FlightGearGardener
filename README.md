@@ -90,6 +90,12 @@ See AppGeneralReadme.
 
 4. Change log
 
+2018-01-19  Version 03 :
+	- Very limited code changes; mainly devoted to improve usage documentation (See Use Guides) and 
+		better support for Unix platforms startup (dedicated For_Unix and For_Windows folders);
+	- Technically, the generic initial font has been changed to Verdana, and some font and fields 
+		sizes have been modified to allow for a better Windows-Unix rendition uniformity.
+
 2018-01-04 : Updated the sysContext.xml to reflect the FG_Gardener02 envelope (instead of FG_Gardener01 ;-) ).
 		Improved a bit the Synchronization reporting and notifications, and Grid cleanup...
 
